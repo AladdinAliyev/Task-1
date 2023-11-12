@@ -1,0 +1,312 @@
+
+.all{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box1{
+    width: 190px;
+    height: 110px;
+    border-radius: 20px;
+    border: 2px solid rgb(241, 170, 55);
+    margin: 20px;
+    
+}
+.box1 h1{
+    color: rgb(117, 74, 5);
+    text-align: center;
+    }
+
+
+
+
+
+
+
+
+.box2{
+    width: 190px;
+    height: 110px;
+    border-radius: 20px;
+    border: 2px solid rgb(241, 170, 55);
+    margin: 20px;
+    
+}
+.box2 h1{
+    color: rgb(117, 74, 5);
+    text-align: center;
+    }
+
+
+
+
+
+
+    .box3{
+        width: 190px;
+        height: 110px;
+        border-radius: 20px;
+        border: 2px solid rgb(241, 170, 55);
+        margin: 20px;
+        
+    }
+    .box3 h1{
+        color: rgb(117, 74, 5);
+        text-align: center;  
+        }
+
+
+
+
+
+
+        .box4{
+            width: 190px;
+            height: 110px;
+            border-radius: 20px;
+            border: 2px solid rgb(241, 170, 55);
+            margin: 20px;
+            ;
+        }
+        .box4 h1{
+            color: rgb(117, 74, 5);
+                text-align: center;
+            }
+
+
+
+
+
+
+
+
+            .box5{
+                width: 190px;
+                height: 110px;
+                border-radius: 20px;
+                border: 2px solid rgb(241, 170, 55);
+                margin: 20px;
+                
+               
+            }
+            .box5 h1{
+                color: rgb(117, 74, 5);
+                    text-align: center;
+                }
+
+
+
+
+
+
+
+
+                .box6{
+                    width: 190px;
+                    height: 110px;
+                    border-radius: 20px;
+                    border: 2px solid rgb(241, 170, 55);
+                    margin: 20px;
+                    
+                   
+                }
+                .box6 h1{
+                    color: rgb(117, 74, 5);
+                        text-align: center;
+                    }
+
+
+
+
+
+
+
+                    .box7{
+                        width: 190px;
+                        height: 110px;
+                        border-radius: 20px;
+                        border: 2px solid rgb(241, 170, 55);
+                        margin: 20px;
+                        
+                    }
+                    .box7 h1{
+                        color: rgb(117, 74, 5);
+                            text-align: center;
+                        }
+
+
+
+
+
+
+
+
+                        .box8{
+                            width: 190px;
+                            height: 110px;
+                            border-radius: 20px;
+                            border: 2px solid rgb(241, 170, 55);
+                            margin: 20px;
+                            
+                        }
+                        .box8 h1{
+                            color: rgb(117, 74, 5);
+                                text-align: center;
+                            }
+
+
+
+
+
+
+
+
+                            .box9{
+                                width: 190px;
+                                height: 110px;
+                                border-radius: 20px;
+                                border: 2px solid rgb(241, 170, 55);
+                                margin: 20px;
+                                
+                            }
+                            .box9 h1{
+                                color: rgb(117, 74, 5);
+                                    text-align: center;
+                                }
+
+
+
+
+
+
+
+
+
+
+
+                                .box10{
+                                    width: 190px;
+                                    height: 110px;
+                                    border-radius: 20px;
+                                    border: 2px solid rgb(241, 170, 55);
+                                    margin:  20px;
+                                }
+                                .box10 h1{
+                                    color: rgb(117, 74, 5);
+                                        text-align: center;
+                                    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    .box11{
+                                        width: 190px;
+                                        height: 110px;
+                                        border-radius: 20px;
+                                        border: 2px solid rgb(241, 170, 55);
+                                        margin: 20px;
+                                       
+                                    }
+                                    .box11 h1{
+                                        color: rgb(117, 74, 5);
+                                            text-align: center;
+                                        }
+
+
+
+
+
+
+
+
+
+
+
+
+                                        .box12{
+                                            width: 190px;
+                                            height: 110px;
+                                            border-radius: 20px;
+                                            margin: 20px;
+                                            border: 2px solid rgb(241, 170, 55);
+                                            margin: 20px;
+                                           
+                                        }
+                                        .box12 h1{
+                                            color: rgb(117, 74, 5);
+                                                text-align: center;
+                                            }
+
+
+
+
+
+
+
+
+
+
+
+                                            .box13{
+                                                width: 190px;
+                                                height: 110px;
+                                                border-radius: 20px;
+                                                border: 2px solid rgb(241, 170, 55);
+                                                margin: 20px;
+                                            }
+                                            .box13 h1{
+                                                color: rgb(117, 74, 5);
+                                                    text-align: center;
+                                                }
+
+
+
+
+
+
+
+                                                .box14{
+                                                    width: 190px;
+                                                    height: 110px;
+                                                    border-radius: 20px;
+                                                    border: 2px solid rgb(241, 170, 55);
+                                                    margin: 20px;
+                                                }
+                                                .box14 h1{
+                                                    color: rgb(117, 74, 5);
+                                                        text-align: center;
+                                                    }
